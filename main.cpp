@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Hello Drone!! OK \n");
+  printf("Hello Drone!! OK OK\n");
   return true;
 }
